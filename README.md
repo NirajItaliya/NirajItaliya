@@ -40,7 +40,7 @@
 
 🎙️ &nbsp; **Currently** &nbsp;&nbsp; Building production voice agents at **NoBroker (Convozen.ai)** · optimizing **vLLM** & **NVIDIA Triton** serving · fine-tuning **Conformer** STT models <br><br>
 🛰️ &nbsp; **Previously @ DRDO** &nbsp;&nbsp; Built the first client-side state-machine inference tool for **IETF QUIC** using L\* (Lstar) and disclosed 2 protocol vulnerabilities <br><br>
-🎓 &nbsp; **Education** &nbsp;&nbsp; M.Tech ICT, **DA-IICT Gandhinagar** (8.9 CPI) · B.Tech CE, GEC Gandhinagar (8.74 CPI) <br><br>
+🎓 &nbsp; **Education** &nbsp;&nbsp; M.Tech ICT, **DA-IICT Gandhinagar** (8.9 CPI) · B.Tech CE, GTU (8.74 CPI) <br><br>
 ⚡ &nbsp; **Focus areas** &nbsp;&nbsp; Voice AI · LLM Serving · STT / TTS · MLOps · Kubernetes <br><br>
 📫 &nbsp; **Reach me** &nbsp;&nbsp; [nirajitaliya12@gmail.com](mailto:nirajitaliya12@gmail.com)
 
